@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamatoso)](https://github.com/anamatoso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamatoso&layout=compact&exclude_repo=MachineLearningProject)](https://github.com/anamatoso/github-readme-stats)
 
 
 <!--
