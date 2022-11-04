@@ -4,7 +4,7 @@ I'm Ana, a biomedical engineer with experience in neuroimaging, machine learning
           
 
 I'm keen on: 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+            <img width="500" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
           
 
