@@ -1,6 +1,7 @@
 ### Hi 👋
 
-I'm Ana, a biomedical engineer with experience in neuroimaging, machine learning, and signal processing. I'm eager to learn new ways of improving healthcare and I'm always up for a challange.
+I'm Ana, a biomedical engineer with experience in neuroimaging, machine learning, and signal processing. I'm eager to learn new ways of improving healthcare and I'm always up for a challange.  <i class="devicon-matlab-plain"></i>
+          
 
 I'm keen on: 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
