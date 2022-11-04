@@ -1,5 +1,7 @@
 ### Hi 👋
 
+<script src="https://code.iconify.design/iconify-icon/1.0.1/iconify-icon.min.js"></script>
+
 I'm Ana, a biomedical engineer with experience in neuroimaging, machine learning, and signal processing. I'm eager to learn new ways of improving healthcare and I'm always up for a challange.
           
 
