@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi 👋
 
 I'm Ana, a biomedical engineer with experience in neuroimaging, machine learning, and signal processing. I'm eager to learn new ways of improving healthcare and I'm always up for a challange.
+
+I'm keen on: 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+          
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamatoso&layout=compact&theme=dark)](https://github.com/anamatoso/github-readme-stats)
