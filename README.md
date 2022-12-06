@@ -12,8 +12,7 @@ I know the basics of: <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/
 If you want to know more about my projects check my  <a href="https://anamatoso.github.io" target="_blank" rel="noopener noreferrer">website</a>.
           
           
-          
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamatoso&layout=compact&theme=dark)](https://github.com/anamatoso/github-readme-stats)       
+   
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamatoso&layout=compact&theme=dark)](https://github.com/anamatoso/github-readme-stats)
