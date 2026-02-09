@@ -13,7 +13,5 @@ I'm keen on: <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/i
 I know the basics of: <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
 ## Github Stats
-<div style="display: flex; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=anamatoso&show_icons=true&hide=issues&hide_rank=true&theme=github_dark" alt="Your GitHub Stats" style="height: 200px; width: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamatoso&layout=compact&theme=github_dark" alt="Top Languages" style="height: 200px; width: auto;" />
-</div>
+
+![Stats](./profile/stats.svg)
