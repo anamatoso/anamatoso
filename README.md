@@ -14,6 +14,5 @@ I know the basics of: <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/
 
 ## Github Stats
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+<img src="profile/stats.svg" height="200" />
+<img src="profile/top-langs.svg" height="200" />
