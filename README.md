@@ -14,13 +14,7 @@ I know the basics of: <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/
 
 ## Github Stats
 
-<table>
-<tr>
-<td>
-<img src="profile/stats.svg" height="200"/>
-</td>
-<td>
-<img src="profile/top-langs.svg" height="200"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="profile/stats.svg" height="200"/>
+  <img src="profile/top-langs.svg" height="200"/>
+</p>
